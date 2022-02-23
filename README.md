@@ -17,8 +17,7 @@
   ##
  
 <div> 
-  
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ 
   <a href = "mailto:bianca_pinalins@outlook.com"><img src="https://www.pcworld.com/wp-content/uploads/2021/09/1055.outlook-logo-2_thumb_56da2757-100841646-orig.jpg?quality=50&strip=all" height="27" width="110"></a>
   <a href="https://www.linkedin.com/in/biancapiñalins" target="_blank"><img src="https://nextforme.com/wp-content/uploads/2019/04/linkedin-large-logo.png" height="27" width="110"></a> 
  
