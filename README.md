@@ -21,7 +21,7 @@
   <a href = "mailto:bianca_pinalins@outlook.com"><img src="https://www.pcworld.com/wp-content/uploads/2021/09/1055.outlook-logo-2_thumb_56da2757-100841646-orig.jpg?quality=50&strip=all" height="27" width="110"></a>
   <a href="https://www.linkedin.com/in/biancapiñalins" target="_blank"><img src="https://nextforme.com/wp-content/uploads/2019/04/linkedin-large-logo.png" height="27" width="110"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/BiancaPinaLins/BiancaPinaLins/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
